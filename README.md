@@ -14,6 +14,7 @@ Current implementations:
   - Simple method (Date)
 - Java
   - Simple method (Date & Time, UTC Only)
+  - Simple method (Date, All Timezones)
 - JavaScript
   - Various methods (Date)
 - PHP

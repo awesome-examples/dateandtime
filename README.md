@@ -8,6 +8,8 @@ Current implementations:
 
 - C
   - Simple method (Date & Time)
+- C++
+  - Simple method (Date)
 - JavaScript
   - Various methods (Date)
 - PHP
@@ -15,6 +17,3 @@ Current implementations:
 - Python
   - Various methods (Date)
   - Simple method (Date & Time)
-
-- C++
-  - Simple method (Date)

@@ -21,6 +21,8 @@ Current implementations:
   - Various methods (Date)
 - PHP
   - Various methods (Date & Time)
+- Powershell
+  - Simple method (Date & Time, UTC and Local)
 - Python
   - Various methods (Date)
   - Simple method (Date & Time)

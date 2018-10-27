@@ -1,4 +1,5 @@
 // Various ways of getting and displaying the date in JavaScript
+// This package makes life easier: https://momentjs.com/
 
 // Get the current date in the computer's region / timezone
 var d = new Date();

@@ -12,6 +12,8 @@ Current implementations:
   - Simple method (Date)
 - Go
   - Simple method (Date)
+- Java
+  - Simple method (Date & Time, UTC Only)
 - JavaScript
   - Various methods (Date)
 - PHP

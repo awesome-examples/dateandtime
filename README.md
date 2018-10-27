@@ -8,6 +8,8 @@ Current implementations:
 
 - C
   - Simple method (Date & Time)
+- Go
+  - Simple method (Date)
 - JavaScript
   - Various methods (Date)
 - PHP

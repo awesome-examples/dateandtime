@@ -29,3 +29,6 @@ weekday[6] = "Saturday";
 
 // Map the current day to the weekday name and output it to the console
 console.log("Current Weekday: " + weekday[d.getDay()]);
+
+// The jQuery way :
+console.log($.datepicker.formatDate("M d, yy", new Date("2014-07-08T09:02:21.377")));

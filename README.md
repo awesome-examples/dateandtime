@@ -1,5 +1,8 @@
 # dateandtime
+
 Ways of getting the date and/or time in various programming languages.
+
+Using Hacktoberfest to help people get into open source.
 
 Current implementations:
 

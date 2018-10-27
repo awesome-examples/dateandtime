@@ -10,6 +10,8 @@ Current implementations:
   - Simple method (Date & Time)
 - C++
   - Simple method (Date)
+- Go
+  - Simple method (Date)
 - JavaScript
   - Various methods (Date)
 - PHP

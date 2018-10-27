@@ -15,3 +15,6 @@ Current implementations:
 - Python
   - Various methods (Date)
   - Simple method (Date & Time)
+
+- C++
+  - Simple method (Date)

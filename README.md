@@ -6,6 +6,8 @@ Using Hacktoberfest to help people get into open source.
 
 Current implementations:
 
+- Batch
+  - Simple method (Date & Time)
 - C
   - Simple method (Date & Time)
 - C++

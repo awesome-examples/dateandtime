@@ -32,6 +32,8 @@ Current implementations:
   - Various methods (Date)
 - Kotlin
   - Various methods (Date & Time)
+- Ocaml
+  - Simple method (Date)
 - PHP
   - Various methods (Date & Time)
 - Powershell

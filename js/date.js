@@ -19,7 +19,7 @@ console.log("Current Day (id): " + d.getDay());
 // Return the weekday
 // Create an array for the weekday [names]
 var weekday = new Array(7);
-weekday[0] =  "Sunday";
+weekday[0] = "Sunday";
 weekday[1] = "Monday";
 weekday[2] = "Tuesday";
 weekday[3] = "Wednesday";
@@ -29,3 +29,9 @@ weekday[6] = "Saturday";
 
 // Map the current day to the weekday name and output it to the console
 console.log("Current Weekday: " + weekday[d.getDay()]);
+
+if (d.getDay() == 0 || d.getDate == 6) {
+  console.log("Today is weekend");
+} else {
+  console.log("Its not a weekend");
+}

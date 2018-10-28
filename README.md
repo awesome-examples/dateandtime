@@ -14,6 +14,8 @@ Current implementations:
   - Simple method (Date & Time, UTC Only)
 - JavaScript
   - Various methods (Date)
+- Kotlin
+  - Various methods (Date & Time)
 - PHP
   - Various methods (Date & Time)
 - Python

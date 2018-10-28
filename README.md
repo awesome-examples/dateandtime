@@ -21,6 +21,8 @@ Current implementations:
   - Simple method (Date & Time)
 - Dart
   - Simple method (Date & Time)
+- Elixir
+  - Simple method (Date & Time, UTC Only)
 - Go
   - Simple method (Date)
 - Java

@@ -14,6 +14,8 @@ Current implementations:
   - Simple method (Date)
 - C#
   - Simple method (Date & Time)
+- Dart
+  - Simple method (Date & Time)
 - Go
   - Simple method (Date)
 - Java
@@ -21,6 +23,8 @@ Current implementations:
   - Simple method (Date, All Timezones)
 - JavaScript
   - Various methods (Date)
+- Kotlin
+  - Various methods (Date & Time)
 - PHP
   - Various methods (Date & Time)
 - Python

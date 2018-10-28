@@ -12,6 +12,8 @@ Current implementations:
   - Simple method (Date & Time)
 - C++
   - Simple method (Date)
+- Dart
+  - Simple method (Date & Time)
 - Go
   - Simple method (Date)
 - Java

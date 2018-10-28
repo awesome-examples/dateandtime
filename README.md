@@ -1,5 +1,8 @@
 # dateandtime
 
+![GitHub language count](https://img.shields.io/github/languages/count/awesome-examples/dateandtime.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/awesome-examples/dateandtime.svg)
+
 Ways of getting the date and/or time in various programming languages.
 
 Using Hacktoberfest to help people get into open source.

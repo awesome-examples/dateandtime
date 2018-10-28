@@ -33,3 +33,5 @@ Current implementations:
 - Python
   - Various methods (Date)
   - Simple method (Date & Time)
+- Ruby
+  - Various methods (Date & Time)

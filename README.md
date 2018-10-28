@@ -21,6 +21,8 @@ Current implementations:
   - Simple method (Date, All Timezones)
 - JavaScript
   - Various methods (Date)
+- Kotlin
+  - Various methods (Date & Time)
 - PHP
   - Various methods (Date & Time)
 - Python

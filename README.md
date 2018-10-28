@@ -9,6 +9,8 @@ Using Hacktoberfest to help people get into open source.
 
 Current implementations:
 
+- Bash
+  - Simple method (Date & Time)
 - Batch
   - Simple method (Date & Time)
 - C

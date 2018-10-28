@@ -12,6 +12,8 @@ Current implementations:
   - Simple method (Date & Time)
 - C++
   - Simple method (Date)
+- Elixir
+  - Simple method (Date & Time, UTC Only)
 - Go
   - Simple method (Date)
 - Java

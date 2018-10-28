@@ -32,6 +32,7 @@ Current implementations:
   - Simple method (Date, All Timezones)
 - JavaScript
   - Various methods (Date)
+  - Simple methods (Time)
 - Kotlin
   - Various methods (Date & Time)
 - Ocaml

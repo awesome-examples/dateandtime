@@ -13,6 +13,5 @@
 	if (minutes < 10) {
 	 minutes = "0" + minutes;
   }
-
 	document.write("Current Time: "+ hours + ":" + minutes)
 </script>

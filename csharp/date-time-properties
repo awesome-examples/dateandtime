@@ -1,0 +1,24 @@
+using static System.Console;
+using System;
+
+class DateTimeProperties 
+{
+    static void Main() 
+    { 
+        string[] months = {"January", "February", "March", "April", "May", 
+            "June", "July", "September", "October", "November", "December"};
+    
+        DateTime now = DateTime.Now;
+
+        WriteLine("Today's date: {0}", now.Date);
+        WriteLine("Today is {0} day of {1}", now.Day, months[now.Month - 1]);
+        WriteLine("Today is {0} day of {1}", now.DayOfYear, now.Year);
+        WriteLine("Today's time: {0}", now.TimeOfDay);
+        WriteLine("Hour: {0}", now.Hour);
+        WriteLine("Minute: {0}", now.Minute);
+        WriteLine("Second: {0}", now.Second);
+        WriteLine("Millisecond: {0}", now.Millisecond);        
+        WriteLine("The day of week: {0}", now.DayOfWeek);
+        WriteLine("Kind: {0}", now.Kind);
+    }
+}

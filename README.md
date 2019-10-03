@@ -40,6 +40,8 @@ Current implementations:
   - Various methods (Date & Time)
 - Powershell
   - Simple method (Date & Time, UTC and Local)
+- Perl
+  - Simple method (Date & Time)
 - Python
   - Various methods (Date)
   - Simple method (Date & Time)

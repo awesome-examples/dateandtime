@@ -19,6 +19,7 @@ Current implementations:
   - Simple method (Date & Time)
 - C++
   - Simple method (Date)
+  - Modern C++ method (Date & Time)
 - C#
   - Simple method (Date & Time)
 - Dart

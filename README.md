@@ -37,6 +37,8 @@ Current implementations:
   - Various methods (Date & Time)
 - Ocaml
   - Simple method (Date)
+- Perl
+  - Simple method (Date & Time)
 - PHP
   - Various methods (Date & Time)
 - Powershell

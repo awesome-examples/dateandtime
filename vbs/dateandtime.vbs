@@ -1,1 +1,1 @@
-MsgBox(Now(), 0, "The time is...")
+MsgBox(Now(), 0, "The time and date is...")

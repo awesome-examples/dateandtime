@@ -1,0 +1,8 @@
+:Disp "THE TIME IS"
+:ClrList L1
+:getTime→L1
+:Disp L1(1),":",L1(2)
+:Disp "THE DATE IS"
+:ClrList L2
+:getDate→L2
+:Disp L1(1),"/",L1(2),"/",L1(3)

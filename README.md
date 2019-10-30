@@ -46,5 +46,7 @@ Current implementations:
 - Python
   - Various methods (Date)
   - Simple method (Date & Time)
+- R
+  - Various methods (Date & Time)
 - Ruby
   - Various methods (Date & Time)

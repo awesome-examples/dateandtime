@@ -50,3 +50,7 @@ Current implementations:
   - Various methods (Date & Time)
 - Ruby
   - Various methods (Date & Time)
+- VBScript
+  - Simple method (Date & Time)
+- TI-BASIC
+  - Simple method (Date & Time)
